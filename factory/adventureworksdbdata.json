@@ -1,0 +1,9 @@
+{
+	"name": "adventureworksdbdata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18bf4f5a-8a20-4632-8b7a-1a0c97e80758",
+		"tenantId": "80c649eb-2a8c-4034-a7e1-5f99a3e482d6"
+	}
+}
